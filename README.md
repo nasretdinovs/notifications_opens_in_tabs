@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
+![Pandas](https://img.shields.io/badge/Pandas-2.1.1-brightgreen?logo=pandas)
+![Tkinter](https://img.shields.io/badge/Tkinter-8.6%2B-orange)
+
 # Обработчик нотификаций
 
 Программа извлекает из текста нужную информацию, подставляет эту информацию в URL и открывает эти ссылки в браузере. 
@@ -54,3 +58,6 @@ Script Location: <ваш_путь_до_папки_с_репозиторием>/n
 Onefile: One File
 Console Windows: Windows Based
 ```
+
+## Графическая оболочка
+![Notification_GUI](https://raw.githubusercontent.com/nasretdinovs/notifications_opens_in_tabs/main/preview/GUI_screenshot.png)
