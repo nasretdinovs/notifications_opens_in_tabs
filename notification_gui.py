@@ -45,7 +45,7 @@ class NotificationApp(tk.Tk):
         self.combobox.grid(row=3, column=0, sticky=W, padx=180, pady=6)
 
         self.start_open_button = tk.Button(
-            self, text='Открыть в Сансаре', command=self.open_links,
+            self, text='Открыть на сайте', command=self.open_links,
             font=('Segoe UI', 10, 'bold'), width=20, height=2)
         self.start_open_button.grid(
             row=4, column=0, sticky=W, padx=30, pady=5)
